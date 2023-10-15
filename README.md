@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkitBhalla19
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c language
+- 🌱 I’m front end web developer
 - 📫 How to reach me https://www.linkedin.com/in/ankit-bhalla-9b6965223
 
 <!---
